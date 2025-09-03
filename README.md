@@ -13,8 +13,7 @@ This is the final version with your custom-designed streak card correctly implem
   <tr>
     <td valign="middle" width="60%">
       <h1>
-        Hey there, I'm Daniel Canoy 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        Hey there, I'm Daniel Canoy
       </h1>
       <p>
         A passionate <strong>Full-stack Developer</strong> from the Philippines 🇵🇭, with a love for building beautiful, intuitive, and scalable digital experiences. I thrive on turning complex problems into elegant solutions.
