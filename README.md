@@ -6,7 +6,7 @@ I've added comments like this one to help you customize it.
 <!-- 1. A GREAT BANNER -->
 <!-- I've created a placeholder banner for you. You can create your own at Canva.com! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
+  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
 </p>
 
 <!-- 2. AN INTRODUCTION WITH A GIF -->
