@@ -1,74 +1,66 @@
 <!-- 
 Hello, Daniel! 
-This is the refactored README with a unified color theme.
-The colors are inspired by your banner.
+This is the advanced, aesthetically-driven README.
+It uses a two-column layout, modern visuals, and a minimalist design philosophy.
 -->
 
+<!-- Main Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
 </p>
 
-<div align="center">
-  <h1>
-    Hey there, I'm Daniel Canoy 
-   
-  </h1>
-  <h3>A passionate Full-stack Developer crafting digital experiences from the Philippines 🇵🇭</h3>
-</div>
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently building **[Talent Nest](https://talentnesttt.vercel.app/)**, a platform to connect emerging talent with opportunities.
-- 🌱 Diving deep into the **Next.js & Express ecosystem** to build robust, full-stack applications.
-- 👨‍💻 All of my work is showcased on my **[Portfolio Website](https://danielcanoy.vercel.app/)**.
-- 📄 Feel free to check out my **[Resume](https://drive.google.com/file/d/10m1ACSgeCu-LXQEE5wtIVrBQBV9EwEgT/view?usp=sharing)** for more details on my experience.
-- 💬 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+<!-- Two-Column Layout for Intro & Stats -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h1>
+        Hey there, I'm Daniel Canoy 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </h1>
+      <p>
+        A passionate <strong>Full-stack Developer</strong> from the Philippines 🇵🇭, with a love for building beautiful, intuitive, and scalable digital experiences. I thrive on turning complex problems into elegant solutions.
+      </p>
+      <ul>
+        <li>🔭 Currently building <strong><a href="https://talentnesttt.vercel.app/">Talent Nest</a></strong>, a platform to connect emerging talent with opportunities.</li>
+        <li>🌱 Diving deep into the <strong>Next.js & Express</strong> ecosystem.</li>
+        <li>👨‍💻 Explore my work on my <strong><a href="https://danielcanoy.vercel.app/">Portfolio Website</a></strong>.</li>
+        <li>📄 View my professional journey on my <strong><a href="https://drive.google.com/file/d/10m1ACSgeCu-LXQEE5wtIVrBQBV9EwEgT/view?usp=sharing">Resume</a></strong>.</li>
+      </ul>
+    </td>
+    <td valign="top" width="35%">
+      <!-- GitHub Streak Stats -->
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=marshymcfloat&theme=dark-green-gradient&hide_border=true" alt="GitHub Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ My Tech Stack
-
-<!-- These are the standard, full-color icons. They look great! -->
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,aws,figma,git" alt="My Tech Stack"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-<!-- 
-THEME CUSTOMIZATION: 
-- I've created a custom theme that matches your banner's green color.
-- bg_color is set to be transparent so it blends with GitHub's background.
-- hide_border removes the ugly box around the stats.
--->
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marshymcfloat&show_icons=true&locale=en&hide_border=true&title_color=34D399&icon_color=34D399&text_color=FFFFFF&bg_color=0D1117" alt="marshymcfloat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117" alt="marshymcfloat's top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marshymcfloat&theme=gruvbox&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-
-<!-- These badges are now colored with your theme's green! -->
 <p align="center">
-  <a href="https://linkedin.com/in/danimcfloat515" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-34D399?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/danimcfloat515" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn"/>
   </a>
-  <a href="mailto:canoydaniel06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-34D399?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:canoydaniel06@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" width="50" alt="Gmail"/>
   </a>
-  <a href="https://fb.com/rosesrblacc" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-34D399?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://fb.com/rosesrblacc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="50" alt="Facebook"/>
   </a>
 </p>
