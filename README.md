@@ -27,7 +27,7 @@ This is the final aesthetic version with the corrected, reliable link for the Gi
     <td valign="top" width="40%">
       <!-- GitHub Streak Stats - UPDATED with a more reliable link! -->
       <p align="center">
-        <img src="[https://streak-stats.demolab.com/?user=marshymcfloat](https://streak-stats.demolab.com/?user=marshymcfloat)&theme=tokyonight_duo&hide_border=true&border_radius=10" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=marshymcfloat&theme=tokyonight_duo&hide_border=true&border_radius=10" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
