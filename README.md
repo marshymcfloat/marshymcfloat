@@ -1,9 +1,9 @@
 <!-- 
 Hello, Daniel! 
-This is the final aesthetic version with rounded corners for a modern, cohesive look.
+This is the final aesthetic version with the corrected, reliable link for the GitHub Streak.
 -->
 
-<!-- Main Banner - This now points to the new rounded banner you will upload -->
+<!-- Main Banner -->
 <p align="center"> <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner"> </p>
 
 <!-- Two-Column Layout for Intro & Stats -->
@@ -25,9 +25,9 @@ This is the final aesthetic version with rounded corners for a modern, cohesive 
       </ul>
     </td>
     <td valign="top" width="40%">
-      <!-- GitHub Streak Stats - Added border_radius=10 for rounded corners -->
+      <!-- GitHub Streak Stats - UPDATED with a more reliable link! -->
       <p align="center">
-        <img src="https://github-readme-streak-stats.vercel.app?user=marshymcfloat&theme=tokyonight_duo&hide_border=true&border_radius=10" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=marshymcfloat&theme=tokyonight_duo&hide_border=true&border_radius=10" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
@@ -35,22 +35,21 @@ This is the final aesthetic version with rounded corners for a modern, cohesive 
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,aws,figma,git" alt="My Tech Stack"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<!-- Top Languages Card - Added border_radius=10 for rounded corners -->
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="marshymcfloat's top languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/danimcfloat515" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="60" alt="LinkedIn"/></a>
   <a href="mailto:canoydaniel06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" width="60" alt="Gmail"/></a>
