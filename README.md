@@ -27,7 +27,7 @@ This is the final aesthetic version with the corrected, reliable link for the Gi
     <td valign="top" width="40%">
       <!-- GitHub Streak Stats - UPDATED with a more reliable link! -->
       <p align="center">
-        <img  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marshymcfloat&theme=dark&hide_border=true&short_numbers=true&card_height=300&background=45%2C418851%2C0F2711" alt="GitHub Streak"  />
+        <img  href="[![GitHub Streak](https://streak-stats.demolab.com?user=marshymcfloat&theme=dark&hide_border=true&short_numbers=true&card_height=300&background=45%2C418851%2C0F2711)](https://git.io/streak-stats)" alt="GitHub Streak"  />
       </p>
     </td>
   </tr>
