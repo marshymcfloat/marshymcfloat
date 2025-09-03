@@ -1,15 +1,13 @@
 <!-- 
-Hello, Daniel! This is your new and improved README.
-I've added comments like this one to help you customize it.
+Hello, Daniel! 
+This is the refactored README with a unified color theme.
+The colors are inspired by your banner.
 -->
 
-<!-- 1. A GREAT BANNER -->
-<!-- I've created a placeholder banner for you. You can create your own at Canva.com! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
+  <img src="[https://i.imgur.com/yS4wW1o.png](https://github.com/marshymcfloat/marshymcfloat/blob/main/github-header-banner.png)" alt="Daniel Canoy - Full-Stack Developer Banner">
 </p>
 
-<!-- 2. AN INTRODUCTION WITH A GIF -->
 <div align="center">
   <h1>
     Hey there, I'm Daniel Canoy 
@@ -31,6 +29,8 @@ I've added comments like this one to help you customize it.
 ---
 
 ### 🛠️ My Tech Stack
+
+<!-- These are the standard, full-color icons. They look great! -->
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
@@ -38,8 +38,6 @@ I've added comments like this one to help you customize it.
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 </p>
 
@@ -48,26 +46,29 @@ I've added comments like this one to help you customize it.
 ### 📊 My GitHub Stats & Activity
 
 <!-- 
-Customize your stats card! 
-Themes: dracula, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dark, radical
+THEME CUSTOMIZATION: 
+- I've created a custom theme that matches your banner's green color.
+- bg_color is set to be transparent so it blends with GitHub's background.
+- hide_border removes the ugly box around the stats.
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marshymcfloat&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="marshymcfloat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marshymcfloat&layout=compact&langs_count=8&theme=tokyonight" alt="marshymcfloat's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marshymcfloat&show_icons=true&locale=en&hide_border=true&title_color=34D399&icon_color=34D399&text_color=FFFFFF&bg_color=0D1117" alt="marshymcfloat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117" alt="marshymcfloat's top languages" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
+<!-- These badges are now colored with your theme's green! -->
 <p align="center">
   <a href="https://linkedin.com/in/danimcfloat515" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-34D399?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:canoydaniel06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-34D399?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://fb.com/rosesrblacc" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-34D399?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
