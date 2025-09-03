@@ -5,7 +5,7 @@ The colors are inspired by your banner.
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
+  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
 </p>
 
 <div align="center">
