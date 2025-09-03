@@ -29,7 +29,7 @@ This is the final version with your custom-designed streak card correctly implem
     <td valign="top" width="40%">
       <!-- Your Custom-Designed GitHub Streak Card - Corrected HTML -->
       <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marshymcfloat&theme=dark&hide_border=true&short_numbers=true&card_height=300&background=45%2C418851%2C0F2711&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marshymcfloat&theme=dark&hide_border=true&short_numbers=true&card_height=400&background=45%2C418851%2C0F2711&hide_longest_streak=true" alt="GitHub Streak" /></a>
       </p>
     </td>
   </tr>
