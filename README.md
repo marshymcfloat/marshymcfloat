@@ -5,13 +5,13 @@ The colors are inspired by your banner.
 -->
 
 <p align="center">
-  <img src="[https://i.imgur.com/yS4wW1o.png](https://github.com/marshymcfloat/marshymcfloat/blob/main/github-header-banner.png)" alt="Daniel Canoy - Full-Stack Developer Banner">
+  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
 </p>
 
 <div align="center">
   <h1>
     Hey there, I'm Daniel Canoy 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   
   </h1>
   <h3>A passionate Full-stack Developer crafting digital experiences from the Philippines 🇵🇭</h3>
 </div>
