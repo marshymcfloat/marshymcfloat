@@ -1,23 +1,73 @@
-<h1 align="center">Hi, my name is Daniel Canoy</h1>
-<h3 align="center">I am a Full-stack Developer from Puerto Princesa City, Palawan.</h3>
+<!-- 
+Hello, Daniel! This is your new and improved README.
+I've added comments like this one to help you customize it.
+-->
 
-- 🔭 I’m currently working on with [Talent Nest](https://talentnesttt.vercel.app/)
-
-- 🌱 I’m currently learning and deepening my knowledge in **NextJS fullstack and Node.js with Express**
-
-- 👨‍💻 All of my projects are available at [https://danielcanoy.vercel.app/](https://danielcanoy.vercel.app/)
-
-- 💬 Ask me about anything whether it's about **programming? about me? what are my goals? feel free**
-
-- 📫 How to reach me **canoydaniel06@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10m1ACSgeCu-LXQEE5wtIVrBQBV9EwEgT/view?usp=sharing](https://drive.google.com/file/d/10m1ACSgeCu-LXQEE5wtIVrBQBV9EwEgT/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danimcfloat515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danimcfloat515" height="30" width="40" /></a>
-<a href="https://fb.com/rosesrblacc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rosesrblacc" height="30" width="40" /></a>
+<!-- 1. A GREAT BANNER -->
+<!-- I've created a placeholder banner for you. You can create your own at Canva.com! -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- 2. AN INTRODUCTION WITH A GIF -->
+<div align="center">
+  <h1>
+    Hey there, I'm Daniel Canoy 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>A passionate Full-stack Developer crafting digital experiences from the Philippines 🇵🇭</h3>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently building **[Talent Nest](https://talentnesttt.vercel.app/)**, a platform to connect emerging talent with opportunities.
+- 🌱 Diving deep into the **Next.js & Express ecosystem** to build robust, full-stack applications.
+- 👨‍💻 All of my work is showcased on my **[Portfolio Website](https://danielcanoy.vercel.app/)**.
+- 📄 Feel free to check out my **[Resume](https://drive.google.com/file/d/10m1ACSgeCu-LXQEE5wtIVrBQBV9EwEgT/view?usp=sharing)** for more details on my experience.
+- 💬 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+
+---
+
+### 🛠️ My Tech Stack
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<!-- 
+Customize your stats card! 
+Themes: dracula, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dark, radical
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marshymcfloat&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="marshymcfloat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marshymcfloat&layout=compact&langs_count=8&theme=tokyonight" alt="marshymcfloat's top languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/danimcfloat515" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:canoydaniel06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://fb.com/rosesrblacc" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
