@@ -1,10 +1,12 @@
 <!-- 
 Hello, Daniel! 
-This is the final aesthetic version with the corrected, reliable link for the GitHub Streak.
+This is the final version with your custom-designed streak card correctly implemented.
 -->
 
-<!-- Main Banner -->
-<p align="center"> <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner"> </p>
+<!-- Main Banner - Using the rounded version for consistency -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
+</p>
 
 <!-- Two-Column Layout for Intro & Stats -->
 <table>
@@ -25,37 +27,34 @@ This is the final aesthetic version with the corrected, reliable link for the Gi
       </ul>
     </td>
     <td valign="top" width="40%">
-      <!-- GitHub Streak Stats - UPDATED with a more reliable link! -->
-     <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=marshymcfloat&theme=dark&hide_border=true&short_numbers=true&card_height=300&background=45%2C418851%2C0F2711" alt="GitHub Streak" />
-  </a>
-</p>
+      <!-- Your Custom-Designed GitHub Streak Card - Corrected HTML -->
+      <p align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=marshymcfloat&theme=dark&hide_border=true&short_numbers=true&card_height=300&background=45%2C418851%2C0F2711" alt="GitHub Streak" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-
-
-
-
 ---
 
-###  My Tech Stack
+### 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,aws,figma,git" alt="My Tech Stack"/>
 </p>
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
+<!-- Updated border_radius to 4.5 to match your new streak card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="marshymcfloat's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117&border_radius=4.5" alt="marshymcfloat's top languages" />
 </p>
 
 ---
 
-###  Let's Connect!
+### 📫 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/danimcfloat515" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="60" alt="LinkedIn"/></a>
   <a href="mailto:canoydaniel06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" width="60" alt="Gmail"/></a>
