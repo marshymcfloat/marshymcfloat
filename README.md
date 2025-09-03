@@ -14,7 +14,7 @@ This is the final version with your custom-designed streak card correctly implem
     <td valign="middle" width="60%">
       <h1>
         Hey there, I'm Daniel Canoy 
-     
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
       <p>
         A passionate <strong>Full-stack Developer</strong> from the Philippines 🇵🇭, with a love for building beautiful, intuitive, and scalable digital experiences. I thrive on turning complex problems into elegant solutions.
@@ -37,14 +37,14 @@ This is the final version with your custom-designed streak card correctly implem
 
 ---
 
-###  My Tech Stack
+### 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,aws,figma,git" alt="My Tech Stack"/>
 </p>
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 <!-- Updated border_radius to 4.5 to match your new streak card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117&border_radius=4.5" alt="marshymcfloat's top languages" />
@@ -52,7 +52,7 @@ This is the final version with your custom-designed streak card correctly implem
 
 ---
 
-###  Let's Connect!
+### 📫 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/danimcfloat515" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="60" alt="LinkedIn"/></a>
   <a href="mailto:canoydaniel06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" width="60" alt="Gmail"/></a>
