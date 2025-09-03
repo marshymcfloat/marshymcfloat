@@ -1,18 +1,15 @@
 <!-- 
 Hello, Daniel! 
-This is the advanced, aesthetically-driven README.
-It uses a two-column layout, modern visuals, and a minimalist design philosophy.
+This is the final aesthetic version with rounded corners for a modern, cohesive look.
 -->
 
-<!-- Main Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner">
-</p>
+<!-- Main Banner - This now points to the new rounded banner you will upload -->
+<p align="center"> <img src="https://raw.githubusercontent.com/marshymcfloat/marshymcfloat/main/github-header-banner.png" alt="Daniel Canoy - Full-Stack Developer Banner"> </p>
 
 <!-- Two-Column Layout for Intro & Stats -->
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="60%">
       <h1>
         Hey there, I'm Daniel Canoy 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,10 +24,10 @@ It uses a two-column layout, modern visuals, and a minimalist design philosophy.
         <li>📄 View my professional journey on my <strong><a href="https://drive.google.com/file/d/10m1ACSgeCu-LXQEE5wtIVrBQBV9EwEgT/view?usp=sharing">Resume</a></strong>.</li>
       </ul>
     </td>
-    <td valign="top" width="35%">
-      <!-- GitHub Streak Stats -->
+    <td valign="top" width="40%">
+      <!-- GitHub Streak Stats - Added border_radius=10 for rounded corners -->
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=marshymcfloat&theme=dark-green-gradient&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.vercel.app?user=marshymcfloat&theme=tokyonight_duo&hide_border=true&border_radius=10" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
@@ -40,27 +37,22 @@ It uses a two-column layout, modern visuals, and a minimalist design philosophy.
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,aws,figma,git" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,aws,figma,git" alt="My Tech Stack"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
+<!-- Top Languages Card - Added border_radius=10 for rounded corners -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marshymcfloat&theme=gruvbox&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshymcfloat&layout=compact&hide_border=true&title_color=34D399&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="marshymcfloat's top languages" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/danimcfloat515" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:canoydaniel06@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" width="50" alt="Gmail"/>
-  </a>
-  <a href="https://fb.com/rosesrblacc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="50" alt="Facebook"/>
-  </a>
+  <a href="https://linkedin.com/in/danimcfloat515" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="60" alt="LinkedIn"/></a>
+  <a href="mailto:canoydaniel06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" width="60" alt="Gmail"/></a>
+  <a href="https://fb.com/rosesrblacc" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="60" alt="Facebook"/></a>
 </p>
